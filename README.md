@@ -4,13 +4,21 @@
 A estrutura ficará como abaixo:
 
 /prova/ex1_numeros
+
 /prova/ex2_session_cookie
+
 /prova/ex3_dao
+
 /prova/ex4_rest
+
 /prova/frameworks_e_bibliotecas
+
 .htaccess
+
 dump_mysql.sql
+
 manual.txt
+
 
 - Copie o arquivo .htaccess para o seu Apache na raiz do site.
 
@@ -19,6 +27,7 @@ manual.txt
 - Ajuste a conexão do banco de dados mysql nos arquivos abaixo:
 
 \prova\ex3_dao\class\sql\ConnectionProperty.class.php
+
 \prova\ex4_rest\class\sql\ConnectionProperty.class.php
 
 ----------------------------------------------------------------------
